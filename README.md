@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeziaAnnMathew
 - 👀 I’m interested in programming and new technologies
-- 🌱 I’m currently learning node.js and MEAN stack
+- 🌱 I’m currently workin on MEAN stack
 - 📫 How to reach me mail: keziaann26@gmail.com
 
 <!---
