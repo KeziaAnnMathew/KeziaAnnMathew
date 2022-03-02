@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeziaAnnMathew
 - 👀 I’m interested in programming and new technologies
-- 🌱 I’m currently workin on MEAN stack
+- 🌱 I’m currently working on MEAN stack
 
 <!---
 KeziaAnnMathew/KeziaAnnMathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
